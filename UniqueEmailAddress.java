@@ -1,3 +1,11 @@
+/*
+Solution:
+
+-> So first we have to split the input based on the delimiter '@'
+-> Next we have to parse the first half which is split from the above step.
+-> And the we have to append the text after '.' and ignore the text after '+'
+-> This way we can get the number of valid email addresses.
+*/
 package com.example.myleetcodejourney;
 
 import java.util.HashSet;
