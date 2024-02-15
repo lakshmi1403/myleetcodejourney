@@ -1,3 +1,12 @@
+/*
+Here this is a very basic question which I came across in Tiktok assessment aswell.
+I have just used a string and appended each roman number and went so on.
+*/
+
+
+
+
+
 package com.example.myleetcodejourney;
 
 import java.util.Scanner;
