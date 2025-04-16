@@ -9,7 +9,7 @@ Track your weekly progress, learnings, and improvements while solving Leetcode p
 
 | Problem | Difficulty | Status | Notes |
 |---------|------------|--------|-------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |  |  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Done |  |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |  |  |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy |  |  |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy |  |  |
@@ -26,5 +26,5 @@ Track your weekly progress, learnings, and improvements while solving Leetcode p
 
 ---
 
-Add your weekly reflections, mistakes, and learning below each week!
+I will add my weekly reflections, mistakes, and learning below each week!
 
